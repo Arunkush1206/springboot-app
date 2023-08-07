@@ -4,8 +4,8 @@ env:
   variables:
      AWS_DEFAULT_REGION: ap-south-1
      AWS_ACCOUNT_ID: 259571673617
-	 IMAGE_REPO_NAME: esds-repo
-	 IMAGE_TAG: latest
+     IMAGE_REPO_NAME: esds-repo
+     IMAGE_TAG: latest
   #parameter-store:
      # key: "value"
      # key: "value"
